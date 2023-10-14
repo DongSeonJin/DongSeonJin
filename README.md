@@ -1,11 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=Thank%20you%20for%20visiting-nl-&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&section=header&text=Thank%20you%20for%20visiting-nl-&fontSize=40)
 
 
 **👋Hi, I'm DongSeon Jin👋**
   
-#### BackEnd Developer
+BackEnd Developer
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='30'>](https://www.notion.so/0495064e0c47488c880dbe7e42f31e6a?pvs=4)  
 
@@ -29,15 +29,14 @@
 #### [Tool]
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 #### [Communication]
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:EEFF00,100:a82da8)
 
 </div>
 
