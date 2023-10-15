@@ -7,7 +7,7 @@
   
 BackEnd Developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='30'>](https://www.notion.so/0495064e0c47488c880dbe7e42f31e6a?pvs=4)  
+
 
 
 ### :wrench: Skills 
